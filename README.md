@@ -2,32 +2,9 @@
 
 
 
-## xutongxin的笔记书房
+## xtx的笔记书房
 
-在这古朴的书房里，到底记录着什么呢~
-
-
-
-
-
-<!-- .slide -->
-<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/HVKMeuCvlnOJUq6.jpg" , data-background-opacity="0.5"-->
-
-
-## 书架上的书籍
-
-<!-- slide vertical=true -->
-<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/HVKMeuCvlnOJUq6.jpg" , data-background-opacity="0.5"-->
-
-- 来看看我的书架上的书吧，在[这里](https://blog.xutongxin.me/tags)哦
-
-  - **你知道吗？**
-    - 这是我的博客哦，虽然有我的自我介绍，但是博客才是它真正的用处呢
-
-  
-
-  
-
+在这书房里，到底记录着什么呢~
 
 
 
@@ -37,7 +14,7 @@
 
 
 
-## 书桌旁的照片
+## 书架侧挂的校服
 
 
 
@@ -46,9 +23,9 @@
 
 
 
-- 广东工业大学 电气工程及其自动化专业本科生
-- 目前研究方向为电气工程 电力电子及其应用
-- 未来可能进入到电网中工作，同时把全栈人做成自己的兴趣爱好
+- 广东工业大学 电气工程及其自动化专业（本科生）
+- 目前研究方向为电气工程 电力电子与电力系统
+- 未来想要进入到电网中工作，同时把全栈人做成自己的兴趣爱好
 
 
 
@@ -57,21 +34,24 @@
 
 
 
-## 陈列柜上的照片
+## 陈列柜上的奖状与照片
 
+<!-- slide vertical=true -->
+<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/1BKCyMV3tSqOhvg.jpg" , data-background-opacity="0.5"-->
 
+- 高中
+	- 科技创新市赛一等 *2，二等 + 省赛三等，二等
+	- 全市信息学比赛一等奖第7名
+	- 广东省创客大赛二等奖
 
 <!-- slide vertical=true -->
 <!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/1BKCyMV3tSqOhvg.jpg" , data-background-opacity="0.5"-->
 
 - 大学
   - 大一
-    - 自动化学院机器人比赛二等奖（第一次的比赛）
-    - 互联网+出线失败，项目组解散
+    - 自学的同时开始尝试和适应，同时也经历了一些挫折
+    - 广东工业大学二等奖学金
   - 大二上
-    - 电赛省赛失利
-    - 数模省赛队友忘记提交了。。
-    - （这是一条分割线）开始重振旗鼓
     - ASM设计大赛三等奖
     - 邦普杯电子设计大赛三等奖 
     - 校级大学生创新创业竞赛特等奖
@@ -84,28 +64,24 @@
 
   - 大学
     - 大二下
-      - 广东省大学生创新创业竞赛金奖
+      - 挑战杯——广东省大学生创新创业竞赛金奖
       - 广东省互联网+银奖
       - 嵌入式设计大赛华南赛区二等奖
-      - 蓝桥杯嵌入式设计大赛广东省一等奖全国三等奖
+      - 广州大学城校际实验综合技能邀请赛 B1电路设计、焊接与测试、G1物联网智慧服务系统实验技能竞赛两个 一等奖
+      - 蓝桥杯嵌入式设计与开发组广东省一等奖全国三等奖
       - 全国大学生电子设计竞赛嵌入式专题全国三等奖
       - 广东省大学生电子设计竞赛三等奖
       - 广东工业大学一等奖学金
 
 
 
-
-<!-- slide vertical=true -->
-<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/1BKCyMV3tSqOhvg.jpg" , data-background-opacity="0.5"-->
-
-- 高中（包括间接）
-
-	- 科技创新市赛一等 *2，二等 + 省赛三等，二等
-	- 全市信息学比赛一等奖第7名
-	- 广东省创客大赛二等奖
-
-
-
+<!-- .slide -->
+<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
+  - 大学
+    - 大三
+      - **蓝桥杯嵌入式设计与开发组全国一等奖（同时也是广东省一等奖）**
+      - 合泰杯单片机应用设计大赛三等奖
+  - **未完待续**
 
 
 <!-- .slide -->
@@ -113,32 +89,18 @@
 
 
 
-## 书桌抽屉里的工具
+## 桌面上陈列书籍
 
 <!-- slide vertical=true -->
 <!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
 
-- **Electronics**, Familiar
-  - **Digital Circuits**, Familiar
-  - **Analog Circuits**, Familiar
-  - **Power Electronics**, Learning->Familiar
-  - **Automatic control principle**, Learning->Familiar
+- **电气类**, Familiar
+  - **数字电路**, Familiar
+  - **模拟电路**, Familiar
+  - **电力电子**, Learning->Familiar
+  - **电力系统**, Learning->Familiar
+  - **自动控制原理**, Learning->Familiar
 
-
-
-
-<!-- slide vertical=true -->
-<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
-
-
-
-- **C/C++**,  Familiar
-- **MATLAB**, Learning
-- **Python**, Familiar
-- **QT(C++)  and PYQT**, Familiar
-- **Markdown**, Familiar
-- **Linux core**, Learning->Familiar
-  - **Ubuntu**, Familiar
 
 
 
@@ -146,16 +108,12 @@
 <!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
 
 
-
-- **Git**, Familiar
-- **Clion**, Familiar
-- **Pycharm**, Familiar
-- **IDEA**, Familiar
-- **PCB design Ability**, Familiar
-- **立创EDA**, Familiar
-- **VMWare**, Familiar
-- **Docker**, Familiar
-
+- **计算机编程语言**, Familiar
+  - **C/C++**,  Familiar
+  - **MATLAB**, Learning
+  - **Python**, Familiar
+  - **QT(C++)  and PYQT**, Familiar
+  - **Markdown**, Familiar
 
 
 
@@ -165,16 +123,36 @@
 
 
 
-- **STM32**, Familiar
-  - **HAL Library**, Familiar
-  - **Standard Library**, Know but not use
+- **计算机软件**, Familiar
+  - **MATLAB and Simulink**, Familiar
+  - **CLion**, Familiar
+  - **PyCharm**, Familiar
+  - **Altium Designer**, Familiar
+  - **立创EDA**, Familiar
+  - **VMWare**, Familiar
+  - **Docker**, Familiar
+  - **Git**, Familiar
+  - **Linux**, Familiar
 
-- **Arduino**, Familiar
-- **STC51**, Familiar
-- **Assembly Language**, Familiar
-- **Esp8266 with Arduino**, Familiar
-- **Esp32C3 with RTOS**, Familiar
-- **RTOS**, Familiar
+
+
+
+<!-- slide vertical=true -->
+<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
+
+
+- **计算机嵌入式控制**, Familiar
+  - **STM32**, Familiar
+    - **HAL Library**, Familiar
+    - **Standard Library**, Familiar
+  - **ESP Chip for IoT**, Familiar
+  - **RTOS**, Familiar
+
+
+  - **Arduino**, Familiar
+  - **STC51**, Familiar
+  - **Assembly Language**, Familiar
+
 
 
 
@@ -184,24 +162,25 @@
 <!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
 
 - 其他泛化能力
-	- Server Configuration
-	- Data Mining Analysis with python
-	- Flask Server with python
-	- Http(like Post or Get etc)
-	- TCP Communication
-	- MQTT with IoT Server
-	- Last but not Least: Maintain this blog
+	- 服务器架设与配置
+	- 数据挖掘与分析
+	- 使用Python构建物联网后端服务器
+  - MQTT物联网协议的使用
+	- HTTP协议的使用
+	- TCP协议的使用
+	- **最后还有：构建这个网站**
 
 <!-- slide vertical=true -->
 <!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
 
 - 这些工具上有着淡淡的尘埃，但是似乎加以擦拭也可以使用
   - **Java**
-  - **Tensorflow with Python**
+  - **Tensorflow**
   - **MySQL**
-  - **CAN Bus**
+  - **CAN总线协议**
   - **CUDA**
   - **控制类工程**
+  - **Linux core**
 
 
 
@@ -213,9 +192,11 @@
 <!-- slide vertical=true -->
 <!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/RshS1xwPKJcBHg5.jpg" , data-background-opacity="0.5"-->
 
-- **[Github](https://github.com/Yecgaa1)** 
-- [QQ](http://wpa.qq.com/msgrd?v=3&uin=2656823393&site=qq&menu=yes)
-- [网抑云](https://music.163.com/#/user/home?id=46092879)
+- Github代码与项目开源
+  - **[个人Github页面](https://github.com/Yecgaa1)** 
+  - **[我的Github组织](https://github.com/xutongxin1)** 
+- [QQ](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2656823393&website=www.oicqzone.com)
+- [我的博客](https://blog.xutongxin.me)
 
 
 
