@@ -75,8 +75,8 @@
 
 
 
-<!-- .slide -->
-<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
+<!-- slide vertical=true -->
+<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/1BKCyMV3tSqOhvg.jpg" , data-background-opacity="0.5"-->
   - 大学
     - 大三
       - **蓝桥杯嵌入式设计与开发组全国一等奖（同时也是广东省一等奖）**
@@ -84,9 +84,8 @@
   - **未完待续**
 
 
-<!-- .slide -->
-<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/Z2OUmsbBciDp9r5.jpg" , data-background-opacity="0.5"-->
-
+<!-- slide vertical=true -->
+<!-- .slide: data-background-image="https://github.xutongxin.me/https://raw.githubusercontent.com/xutongxin1/xutongxin1.github.io/master/blog_picture/1BKCyMV3tSqOhvg.jpg" , data-background-opacity="0.5"-->
 
 
 ## 桌面上陈列书籍
@@ -147,7 +146,6 @@
     - **Standard Library**, Familiar
   - **ESP Chip for IoT**, Familiar
   - **RTOS**, Familiar
-
 
   - **Arduino**, Familiar
   - **STC51**, Familiar
